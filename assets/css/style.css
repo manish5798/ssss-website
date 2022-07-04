@@ -862,7 +862,7 @@ p {
 /*===========================
     2.HEADER css 
 ===========================*/
-.appie-sticky.sticky {
+/* .appie-sticky.sticky {
   position: fixed;
   left: 0;
   top: 0;
@@ -872,7 +872,7 @@ p {
   box-shadow: 0 15px 30px 0 #0000000f;
   padding-top: 20px;
   padding-bottom: 20px;
-  animation: sticky  1.2s; }
+  animation: sticky  1.2s; } */
 
 .appie-header-area {
   padding-top: 30px;
